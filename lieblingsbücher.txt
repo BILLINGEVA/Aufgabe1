@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-
-<<<<<<< HEAD
 Harrypotter
-=======
+lieblingsbuecher1
 Du findest mich am Ende der Welt.
->>>>>>> lieblingsbuecher2
-=======
+lieblingsbuecher2
 Pretty Women
->>>>>>> lieblingsbuecher3
+lieblingsbuecher3
