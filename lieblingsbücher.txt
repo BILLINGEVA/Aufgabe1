@@ -1,1 +1,6 @@
+
+<<<<<<< HEAD
 Harrypotter
+=======
+Du findest mich am Ende der Welt.
+>>>>>>> lieblingsbuecher2
